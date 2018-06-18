@@ -1,6 +1,9 @@
 # learn_dart
 
-A sample command-line application.
+## Online IDE
+https://dartpad.dartlang.org/
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+
+## Info
+https://www.dartlang.org/
+
