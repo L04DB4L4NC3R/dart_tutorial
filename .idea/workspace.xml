@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60334597-db92-4ab1-bede-4520cb9ed52d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/bin/abstract_classes.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/learn_dart.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/learn_dart_test.dart" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="inheritance2.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bin/inheritance2.dart">
+      <file leaf-file-name="abstract_classes.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bin/abstract_classes.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="796">
-              <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+            <state relative-caret-position="96">
+              <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -40,6 +43,7 @@
         <option value="$PROJECT_DIR$/bin/oop.dart" />
         <option value="$PROJECT_DIR$/bin/inheritance.dart" />
         <option value="$PROJECT_DIR$/bin/inheritance2.dart" />
+        <option value="$PROJECT_DIR$/bin/abstract_classes.dart" />
       </list>
     </option>
   </component>
@@ -94,9 +98,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.inheritance2.dart">
+  <component name="RunManager" selected="Dart Command Line App.abstract_classes.dart">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="abstract_classes.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/abstract_classes.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="inheritance2.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/bin/inheritance2.dart" />
@@ -157,9 +165,11 @@
       <item itemvalue="Dart Command Line App.oop.dart" />
       <item itemvalue="Dart Command Line App.inheritance.dart" />
       <item itemvalue="Dart Command Line App.inheritance2.dart" />
+      <item itemvalue="Dart Command Line App.abstract_classes.dart" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.abstract_classes.dart" />
         <item itemvalue="Dart Command Line App.inheritance2.dart" />
         <item itemvalue="Dart Command Line App.inheritance.dart" />
         <item itemvalue="Dart Command Line App.oop.dart" />
@@ -291,8 +301,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bin/inheritance2.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="796">
-          <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+        <state relative-caret-position="1500">
+          <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/learn_dart_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_dart.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/abstract_classes.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
         </state>
       </provider>
     </entry>
